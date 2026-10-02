@@ -1,4 +1,4 @@
-﻿# 타이탄폴 2 VR모드 한글패치
+# 타이탄폴 2 VR모드 한글패치
 
 유튜브 크리에이터 **제콜**이 만들었습니다.
 
@@ -30,4 +30,3 @@ Copyright © 2017 IBM Corp. with Reserved Font Name “Plex”
 ## 수정·오역 제보
 
 수정 및 오역 관련 의견을 받고 있습니다. 이 저장소의 [Issues 탭](https://github.com/zecole-vr/Titanfall2VR-KoreanPatch/issues)에 남겨 주세요.
-
