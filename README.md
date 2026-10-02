@@ -13,6 +13,7 @@
 3. 이 저장소의 [Releases](https://github.com/zecole-vr/Titanfall2VR-KoreanPatch/releases)에서 `Titanfall2VR-Korean-Setup-v0.2.8.exe`를 내려받습니다.
 4. 게임을 종료한 뒤 설치 파일을 실행합니다. 자동으로 찾은 게임 폴더를 확인하고 **한글패치 설치**를 누릅니다. 폴더를 찾지 못하면 **찾아보기**로 타이탄폴 2 설치 폴더를 선택합니다. Windows 관리자 권한 요청이 나오면 허용해 주세요.
 5. 설치가 끝나면 VR 모드 설치기에서 게임을 실행합니다.
+6. 게임의 **설정 → 사운드**에서 **자막을 켜 주세요.** 자막을 켜야 대사 자막이 표시됩니다.
 
 ## 폰트 저작권
 
@@ -29,3 +30,4 @@ Copyright © 2017 IBM Corp. with Reserved Font Name “Plex”
 ## 수정·오역 제보
 
 수정 및 오역 관련 의견을 받고 있습니다. 이 저장소의 [Issues 탭](https://github.com/zecole-vr/Titanfall2VR-KoreanPatch/issues)에 남겨 주세요.
+
