@@ -1,4 +1,4 @@
-# 타이탄폴 2 VR 한글패치
+﻿# 타이탄폴 2 VR 한글패치
 
 유튜브 크리에이터 **제콜**이 만들었습니다.
 
@@ -10,7 +10,7 @@
 
 1. 타이탄폴 2를 설치합니다.
 2. [VR 모드 설치기](https://github.com/CircuitLord/CircuitLordVRModInstaller/releases/latest)로 타이탄폴 2 VR 모드를 설치합니다.
-3. 이 저장소의 [Releases](https://github.com/zecole-vr/Titanfall2VR-KoreanPatch/releases)에서 `Titanfall2VR-Korean-Setup-v0.2.6.exe`를 내려받습니다.
+3. 이 저장소의 [Releases](https://github.com/zecole-vr/Titanfall2VR-KoreanPatch/releases)에서 `Titanfall2VR-Korean-Setup-v0.2.8.exe`를 내려받습니다.
 4. 게임을 종료한 뒤 설치 파일을 실행합니다. 자동으로 찾은 게임 폴더를 확인하고 **한글패치 설치**를 누릅니다. 폴더를 찾지 못하면 **찾아보기**로 타이탄폴 2 설치 폴더를 선택합니다. Windows 관리자 권한 요청이 나오면 허용해 주세요.
 5. 설치가 끝나면 VR 모드 설치기에서 게임을 실행합니다.
 
